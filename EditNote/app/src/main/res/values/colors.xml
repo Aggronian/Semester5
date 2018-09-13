@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#57604c</color>
+    <color name="colorPrimaryDark">#5e6a57</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="myBlack">#272822</color>
+    <color name="myDarkGrey">#383830</color>
+    <color name="myGrey">#49483e</color>
+    <color name="myLightGrey">#75715e</color>
+    <color name="myLighterGrey">#a59f85</color>
+    <color name="myWhite">#F8F8F2</color>
+    <color name="myWhiter">#F5F4F1</color>
+    <color name="myEvenWhiter">#F9F8F5</color>
+    <color name="myPink">#F92672</color>
+    <color name="myOrange">#FD971F</color>
+    <color name="myBeige">#F4BF75</color>
+    <color name="myLime">#A6E22E</color>
+    <color name="myLightBlue">#A1EFE4</color>
+    <color name="mySkyBlue">#66D9EF</color>
+    <color name="myPurple">#AE81FF</color>
+    <color name="myBrown">#CC6633</color>
+</resources>
